@@ -2,10 +2,17 @@
 layout: default
 title: Home
 ---
-
-# Matilde Simonetti
-
+# Welcome
 ![Headshot](headshot.jpg){: style="width:180px; border-radius: 8px;"}
+
+<div class="hero">
+  <img src="headshot.jpg" alt="Headshot of Matilde Simonetti" class="avatar">
+  <div>
+    <h1 class="name">Matilde Simonetti</h1>
+    <p class="tagline">PhD Candidate, Institute of Psychology, Cognitive and Experimental Psychology, RWTH Aachen</p>
+  </div>
+</div>
+
 
 ## About
 
@@ -22,12 +29,14 @@ I am part of the Gewonn network.
 
 ---
 
-## Contact & Links
+<h2>Contact & Links</h2>
 
-📧 Email: simonetti@psych.rwth-aachen.de
-🎓 Google Scholar: [link](https://scholar.google.com/citations?hl=it&user=JmBEc0UAAAAJ)
-👩🏼‍🔬 Research Gate: [link](https://www.researchgate.net/profile/Matilde-Simonetti?ev=hdr_xprf)
-🐦 LinkedIn: [link](https://www.linkedin.com/in/matilde-ellen-simonetti/?skipRedirect=true)
-🔤 GeWonn: [link](https://sites.google.com/view/gewonn/home) 
-🦋 BlueSky: [link](https://bsky.app/profile/matildellen.bsky.social)  
-👾 GitHub: [link](https://github.com/matildellen)  
+<p>
+📧 Email: simonetti@psych.rwth-aachen.de &nbsp; 
+🎓 Google Scholar: <a href="LINK">link</a> &nbsp; 
+👩🏼‍🔬 ResearchGate: <a href="LINK">link</a> &nbsp; 
+🐦 LinkedIn: <a href="LINK">link</a> &nbsp; 
+🔤 GeWonn: <a href="LINK">link</a> &nbsp; 
+🦋 BlueSky: <a href="LINK">link</a> &nbsp; 
+👾 GitHub: <a href="LINK">link</a>
+</p>
