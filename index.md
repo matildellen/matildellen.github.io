@@ -2,8 +2,6 @@
 layout: default
 title: Home
 ---
-# Welcome
-
 <div class="hero">
   <img src="headshot.jpg" alt="Headshot of Matilde Simonetti" class="avatar">
   <div>
