@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 # Welcome
-![Headshot](headshot.jpg){: style="width:180px; border-radius: 8px;"}
 
 <div class="hero">
   <img src="headshot.jpg" alt="Headshot of Matilde Simonetti" class="avatar">
