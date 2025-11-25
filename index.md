@@ -28,12 +28,12 @@ I am part of the Gewonn network.
 
 <h2>Contact & Links</h2>
 
-<p>
-📧 Email: simonetti@psych.rwth-aachen.de &nbsp; 
-🎓 Google Scholar: <a href="LINK">link</a> &nbsp; 
-👩🏼‍🔬 ResearchGate: <a href="LINK">link</a> &nbsp; 
-🐦 LinkedIn: <a href="LINK">link</a> &nbsp; 
-🔤 GeWonn: <a href="LINK">link</a> &nbsp; 
-🦋 BlueSky: <a href="LINK">link</a> &nbsp; 
-👾 GitHub: <a href="LINK">link</a>
-</p>
+<div class="contact-links">
+  📧 <a href="mailto:simonetti@psych.rwth-aachen.de">Email</a>
+  🎓 <a href="https://scholar.google.com/citations?hl=it&user=JmBEc0UAAAAJ" target="_blank">Google Scholar</a>
+  🔬 <a href="https://www.researchgate.net/profile/Matilde-Simonetti?ev=hdr_xprf" target="_blank">ResearchGate</a>
+  🔗 <a href="https://www.linkedin.com/in/matilde-ellen-simonetti/?skipRedirect=true" target="_blank">LinkedIn</a>
+  🧠 <a href="https://sites.google.com/view/gewonn/home" target="_blank">GeWonn</a>
+  🦋 <a href="https://bsky.app/profile/matildellen.bsky.social" target="_blank">BlueSky</a>
+  💻 <a href="https://github.com/matildellen" target="_blank">GitHub</a>
+</div>
