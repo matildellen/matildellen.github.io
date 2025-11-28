@@ -49,8 +49,8 @@ I am part of the Gewonn network.
     <i class="fa-solid fa-brain"></i>
   </a>
 
-  <a href="https://bsky.app/profile/matildellen.bsky.social" target="_blank" aria-label="BlueSky">
-    <i class="fa-brands fa-bluesky"></i>
+  <a href="https://bsky.app/profile/matildellen.bsky.social" target="_blank" aria-label="Bluesky">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Bluesky_Logo.svg" class="bsky-icon">
   </a>
 
   <a href="https://github.com/matildellen" target="_blank" aria-label="GitHub">
