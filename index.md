@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <div class="hero">
-  <img src="headshot.jpg" alt="Headshot of Matilde Simonetti" class="avatar">
+  <img src="images/headshot.jpg" alt="Headshot of Matilde Simonetti" class="avatar">
   <div>
     <h1 class="name">Matilde Simonetti</h1>
     <p class="tagline">PhD Candidate, Institute of Psychology, Cognitive and Experimental Psychology, RWTH Aachen</p>
@@ -50,7 +50,7 @@ I am part of the Gewonn network.
   </a>
 
   <a href="https://bsky.app/profile/matildellen.bsky.social" target="_blank" aria-label="Bluesky">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Bluesky_Logo.svg" class="bsky-icon">
+  <img src="images/bsky-logo.svg" class="bsky-icon" alt="Bluesky">
   </a>
 
   <a href="https://github.com/matildellen" target="_blank" aria-label="GitHub">
