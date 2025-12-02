@@ -55,23 +55,21 @@ I am also a member of the
   </a>
 
   <a href="https://bsky.app/profile/matildellen.bsky.social" target="_blank" aria-label="Bluesky">
-  <img src="images/bsky-logo.png" class="bsky-icon" alt="Bluesky">
+    <img src="/images/bsky-logo.png" class="bsky-icon" alt="Bluesky">
   </a>
 
   <a href="https://github.com/matildellen" target="_blank" aria-label="GitHub">
     <i class="fa-brands fa-github"></i>
   </a>
-</div>
 
   <a href="https://www.psych.rwth-aachen.de/cms/psy/das-institut/kognitions-und-experimentalpsychologie/team/~yjiij/matilde-simonetti/?allou=1&lidx=1" 
      target="_blank" aria-label="RWTH Profile">
     <i class="fa-solid fa-building-columns"></i>
   </a>
-
 </div>
 
-<p>
+<div class="cv-button-container">
   <a class="cv-button" href="/files/CV_Matilde_Simonetti.pdf" target="_blank">
     Download CV
   </a>
-</p>
+</div>
