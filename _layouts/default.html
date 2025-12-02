@@ -5,121 +5,34 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-  <style>
-    :root {
-      --accent: #407fb7;
-    }
-
-    body {
-      max-width: 850px;
-      margin: 40px auto;
-      padding: 0 20px;
-      font-family: system-ui, -apple-system, sans-serif;
-      line-height: 1.6;
-      color: #111;
-      background: linear-gradient(to bottom, #ffffff, #eef5fb);
-    }
-
-    header {
-      margin-bottom: 40px;
-    }
-
-    .site-title {
-      font-size: 28px;
-      font-weight: 700;
-      margin-bottom: 10px;
-    }
-
-    nav {
-      display: flex;
-      gap: 20px;
-      font-size: 16px;
-    }
-
-    nav a {
-      text-decoration: none;
-      color: #333;
-      font-weight: 500;
-    }
-
-    nav a:hover {
-      text-decoration: underline;
-    }
-
-    main {
-      margin-top: 30px;
-    }
-
-    .hero {
-      display: flex;
-      align-items: center;
-      gap: 25px;
-      margin-bottom: 40px;
-    }
-
-    .avatar {
-      width: 160px;
-      border-radius: 50%;
-      border: 4px solid var(--accent);
-    }
-
-    .name {
-      font-size: 32px;
-      margin: 0;
-      color: var(--accent);
-    }
-
-    .tagline {
-      font-size: 17px;
-      color: #444;
-      margin-top: 6px;
-    }
-
-    .contact-links {
-      display: flex;
-      gap: 20px;
-      margin-top: 20px;
-      align-items: center;
-    }
-
-    .contact-links a {
-      font-size: 32px;
-      color: var(--accent);
-      background-color: #eef5fb;
-      padding: 12px;
-      border-radius: 14px;
-      transition: transform 0.2s ease, background 0.2s ease;
-      text-decoration: none;
-    }
-
-    .contact-links a:hover {
-      background-color: var(--accent);
-      color: white;
-      transform: translateY(-3px);
-    }
-
-    .bsky-icon {
-      width: 32px;
-      height: 32px;
-    }
-  </style>
+  <!-- Your CSS file -->
+  <link rel="stylesheet" href="/assets/style.css">
 </head>
 
 <body>
-  <header>
-    <div class="site-title">{{ site.title }}</div>
-    <nav>
-      <a href="/">Home</a>
-      <a href="/research">Research</a>
-      <a href="/publications">Publications</a>
-    </nav>
-  </header>
 
-  <main>
-    {{ content }}
-  </main>
+<header>
+  <div class="site-title">{{ site.title }}</div>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/research">Research</a>
+    <a href="/publications">Publications</a>
+  </nav>
+</header>
+
+<main>
+  {{ content }}
+</main>
+
+<footer>
+  © {{ site.time | date: "%Y" }} {{ site.title }} — Built with GitHub Pages
+</footer>
+
 </body>
 </html>
