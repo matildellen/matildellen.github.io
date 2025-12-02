@@ -3,19 +3,28 @@ layout: default
 title: Home
 ---
 <div class="hero">
-  <img src="images/headshot.jpg" alt="Headshot of Matilde Simonetti" class="avatar">
+  <img src="images/headshot.jpg" alt="Headshot of Matilde Ellen Simonetti" class="avatar">
   <div>
-    <h1 class="name">Matilde Simonetti</h1>
-    <p class="tagline">PhD Candidate, Institute of Psychology, Cognitive and Experimental Psychology, RWTH Aachen</p>
+    <h1 class="name">Matilde Ellen Simonetti, M.Sc.</h1>
+    <p class="tagline">PhD Candidate · Institute of Psychology · Cognitive and Experimental Psychology · RWTH Aachen</p>
   </div>
 </div>
 
 
 ## About
 
-Matilde is currently a PhD student working under the supervision of Tanja Roembke. 
-She is interested in word learning, sometimes with the help of eye-tracking, especially in bilingual populations. 
-I am part of the Gewonn network.
+<p>
+I am a PhD student working under the supervision of 
+<a href="https://www.psych.rwth-aachen.de/cms/psy/das-institut/kognitions-und-experimentalpsychologie/team/~cjoix/tanja-roembke/?allou=1&lidx=1" target="_blank">Tanja Roembke</a> 
+and 
+<a href="https://www.psych.rwth-aachen.de/cms/psy/Das-Institut/Kognitions-und-Experimentalpsychologie/Team/~ikpk/Iring-Koch/lidx/1/" target="_blank">Iring Koch</a>.<br><br>
+
+My research focuses on how people learn words, particularly in bilingual contexts, 
+often using eye-tracking to uncover real-time learning processes.<br><br>
+
+I am also a member of the 
+<a href="https://sites.google.com/view/gewonn/home" target="_blank">GeWonn network</a>.
+</p>
 
 ---
 
@@ -45,15 +54,24 @@ I am part of the Gewonn network.
     <i class="fa-brands fa-linkedin"></i>
   </a>
 
-  <a href="https://sites.google.com/view/gewonn/home" target="_blank" aria-label="GeWonn">
-    <i class="fa-solid fa-brain"></i>
-  </a>
-
   <a href="https://bsky.app/profile/matildellen.bsky.social" target="_blank" aria-label="Bluesky">
-  <img src="images/bsky-logo.svg" class="bsky-icon" alt="Bluesky">
+  <img src="images/bsky-logo.png" class="bsky-icon" alt="Bluesky">
   </a>
 
   <a href="https://github.com/matildellen" target="_blank" aria-label="GitHub">
     <i class="fa-brands fa-github"></i>
   </a>
 </div>
+
+  <a href="https://www.psych.rwth-aachen.de/cms/psy/das-institut/kognitions-und-experimentalpsychologie/team/~yjiij/matilde-simonetti/?allou=1&lidx=1" 
+     target="_blank" aria-label="RWTH Profile">
+    <i class="fa-solid fa-building-columns"></i>
+  </a>
+
+</div>
+
+<p>
+  <a class="cv-button" href="/files/CV_Matilde_Simonetti.pdf" target="_blank">
+    Download CV
+  </a>
+</p>
