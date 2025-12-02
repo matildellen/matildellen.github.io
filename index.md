@@ -55,7 +55,7 @@ I am also a member of the
   </a>
 
   <a href="https://bsky.app/profile/matildellen.bsky.social" target="_blank" aria-label="Bluesky">
-    <img src="/images/bsky-logo.png" class="bsky-icon" alt="Bluesky">
+    <img src="/images/Bluesky_Logo.png" class="bsky-icon" alt="Bluesky">
   </a>
 
   <a href="https://github.com/matildellen" target="_blank" aria-label="GitHub">
