@@ -68,7 +68,7 @@ I am also a member of the
   </a>
 </div>
 
-<div class="cv-button-container">
+<div class="cv-button-container" style="margin-top: 1.25rem; text-align: center;">
   <a class="cv-button" href="/files/CV_Matilde_Simonetti.pdf" target="_blank">
     Download CV
   </a>
