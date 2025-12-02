@@ -110,13 +110,20 @@ main {
 }
 
 .contact-links a {
-  font-size: 32px;
-  color: var(--accent);
-  background-color: var(--bg);
-  padding: 12px;
-  border-radius: 14px;
-  transition: 0.2s ease;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 48px;
+  height: 48px;
+
+  background-color: #eaf2f9;
+  border-radius: 12px;
+
+  margin: 0 8px;
   text-decoration: none;
+  color: #3b7ea1;
+  font-size: 28px;
 }
 
 .contact-links a:hover {
@@ -128,7 +135,14 @@ main {
 .bsky-icon {
   width: 32px;
   height: 32px;
-  display: block;
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
+
+  /* Make it visually match the other icons */
+  padding: 6px;
+  border-radius: 12px;
+  background-color: #eaf2f9; /* same light background as your card icons */
 }
 
 
