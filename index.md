@@ -20,10 +20,11 @@ and
 <a href="https://www.psych.rwth-aachen.de/cms/psy/Das-Institut/Kognitions-und-Experimentalpsychologie/Team/~ikpk/Iring-Koch/lidx/1/" target="_blank">Iring Koch</a>.<br><br>
 
 My research focuses on how people learn words, particularly in bilingual contexts, 
-often using eye-tracking to uncover real-time learning processes.<br><br>
+sometimes using eye-tracking to uncover real-time learning processes.<br><br>
 
 I am also a member of the 
-<a href="https://sites.google.com/view/gewonn/home" target="_blank">GeWonn network</a>.
+<a href="https://sites.google.com/view/gewonn/home" target="_blank">GeWonn network</a> and of
+<a href="https://www.womenincogsci.org/wics-europe" target="_blank">WiSC E+ Leadership Team</a>.
 </p>
 
 ---
@@ -55,7 +56,7 @@ I am also a member of the
   </a>
 
   <a href="https://bsky.app/profile/matildellen.bsky.social" target="_blank" aria-label="Bluesky">
-    <img src="/images/Bluesky_Logo.png" class="bsky-icon" alt="Bluesky">
+    <img src="images/Bluesky_Logo.png" class="bsky-icon" alt="Bluesky">
   </a>
 
   <a href="https://github.com/matildellen" target="_blank" aria-label="GitHub">
