@@ -196,3 +196,14 @@ footer {
 .cv-button:hover {
   background: #2f638e;
 }
+
+/* Global link color */
+a,
+a:visited {
+  color: var(--accent);
+}
+/* Optional: slightly darker on hover/focus */
+a:hover,
+a:focus-visible {
+  color: #2f638e;
+}
