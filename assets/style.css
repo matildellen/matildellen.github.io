@@ -189,35 +189,36 @@ h2::after {
 /* FOOTER */
 /* ---------------------------- */
 
-footer {
-  text-align: center;
+.site-footer {
   margin-top: 60px;
+  padding: 32px 20px 24px;
+  text-align: center;
   color: #666;
   font-size: 14px;
+
+  border-top: 1px solid #e3ecf4;
 }
 
-.cv-button {
-  display: inline-block;
-  padding: 12px 20px;
-  background: var(--accent);
-  color: white;
-  border-radius: 10px;
-  text-decoration: none;
-  font-weight: 600;
-  transition: 0.2s ease;
+.footer-content {
+  max-width: 900px;
+  margin: 0 auto;
 }
 
-.cv-button:hover {
-  background: #2f638e;
+/* Center icons nicely in footer */
+.site-footer .contact-links {
+  justify-content: center;
+  margin-top: 0;
+  margin-bottom: 16px;
 }
 
-/* Global link color */
-a,
-a:visited {
-  color: var(--accent);
+/* CV button spacing */
+.site-footer .cv-button-container {
+  margin-top: 12px;
 }
-/* Optional: slightly darker on hover/focus */
-a:hover,
-a:focus-visible {
-  color: #2f638e;
+
+/* Small copyright line */
+.footer-meta {
+  margin-top: 18px;
+  font-size: 13px;
+  color: #777;
 }
