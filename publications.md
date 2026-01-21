@@ -15,7 +15,7 @@ Authors with **my name** appear in bold.
 <div class="pub-list">
 
 <p>
-<strong>Simonetti, M.E.</strong>, Lorenz, M. G., Koch, I., & Roembke, T.C. (in press).  
+<strong>Simonetti, M.E.</strong>, Lorenz, M. G., Koch, I., & Roembke, T.C. (2025).  
 <i>The influence of bilingualism on statistical word learning: A registered report.</i>  
 Royal Society Open Science.  
 <a href="https://osf.io/2ch9y" target="_blank">DOI: osf.io/2ch9y</a>
