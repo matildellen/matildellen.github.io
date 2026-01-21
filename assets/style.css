@@ -49,7 +49,7 @@ nav a {
 
 /* Prevent visited links from changing color */
 a:visited {
-  color: #333; /* or whatever your default link color is */
+  color: #407fb7; /* or whatever your default link color is */
 }
 
 nav a:hover {
