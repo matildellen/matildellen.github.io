@@ -144,7 +144,17 @@ main {
   border-radius: 12px;
   background-color: #eaf2f9; /* same light background as your card icons */
 }
+.orcid-icon {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
 
+  padding: 6px;
+  border-radius: 12px;
+  background-color: #eaf2f9;
+}
 
 /* ---------------------------- */
 /* SECTION HEADERS */
