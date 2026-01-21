@@ -226,6 +226,35 @@ h2::after {
   margin-top: 12px;
 }
 
+.cv-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 11px 22px;
+
+  background: linear-gradient(
+    135deg,
+    var(--accent),
+    #2f638e
+  );
+
+  color: white;
+  border-radius: 999px; /* pill shape */
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.02em;
+
+  box-shadow: 0 6px 18px rgba(64, 127, 183, 0.25);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cv-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 26px rgba(64, 127, 183, 0.35);
+}
+
 /* Small copyright line */
 .footer-meta {
   margin-top: 18px;
