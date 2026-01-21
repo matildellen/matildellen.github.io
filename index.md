@@ -67,6 +67,11 @@ I am also a member of the
      target="_blank" aria-label="RWTH Profile">
     <i class="fa-solid fa-building-columns"></i>
   </a>
+
+   <a href="https://orcid.org/0009-0001-6745-9938" 
+     target="_blank" aria-label="ORCID Profile">
+    <img src="images/ORCID.png" class="orcid-icon" alt="ORCID">
+  </a>
 </div>
 
 <div class="cv-button-container" style="margin-top: 1.25rem; text-align: center;">
