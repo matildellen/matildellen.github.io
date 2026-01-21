@@ -49,8 +49,9 @@ nav a {
 
 /* Prevent visited links from changing color */
 a:visited {
-  color: inherit;   /* keeps the same color as normal links */
+  color: #333; /* or whatever your default link color is */
 }
+
 nav a:hover {
   color: var(--accent);
 }
