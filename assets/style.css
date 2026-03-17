@@ -266,3 +266,61 @@ h2::after {
   font-size: 13px;
   color: #777;
 }
+
+/* ---------------------------- */
+/* MOBILE OPTIMIZATION */
+/* ---------------------------- */
+
+@media (max-width: 768px) {
+
+  body {
+    margin: 20px auto;
+    padding: 0 15px;
+  }
+
+  main {
+    padding: 20px;
+  }
+
+  /* HERO STACKS */
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .avatar {
+    width: 120px;
+  }
+
+  .name {
+    font-size: 24px;
+  }
+
+  .tagline {
+    font-size: 15px;
+  }
+
+  /* NAV WRAPS NICELY */
+  nav {
+    flex-wrap: wrap;
+    gap: 15px;
+    font-size: 15px;
+  }
+
+  /* CONTACT ICONS SCALE */
+  .contact-links a {
+    width: 42px;
+    height: 42px;
+    font-size: 22px;
+  }
+
+  /* HEADINGS */
+  h2 {
+    font-size: 22px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+}
