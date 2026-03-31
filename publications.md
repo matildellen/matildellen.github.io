@@ -21,32 +21,18 @@ Authors with **my name** appear in bold.
 {% endif %}
 
 <p>
-
-{{ pub.authors }}
-
-({{ pub.year }}).  
-<i>{{ pub.title }}</i>.  
-{{ pub.journal }}.
-
-{% if pub.doi %}
-<a class="pub-link" href="{{ pub.doi }}" target="_blank">DOI</a>
-{% endif %}
-
-{% if pub.pdf %}
-<a class="pub-link" href="{{ pub.pdf }}" target="_blank">PDF</a>
-{% endif %}
-
-{% if pub.osf %}
-<a class="pub-link" href="{{ pub.osf }}" target="_blank">OSF</a>
-{% endif %}
-
-{% if pub.abstract %}
-<details>
-<summary>Abstract</summary>
-<p>{{ pub.abstract }}</p>
-</details>
-{% endif %}
-
+  {{ pub.authors }} ({{ pub.year }}).
+  <i>{{ pub.title }}</i>.
+  {{ pub.journal }}.
+  {% if pub.doi %}
+    <a class="pub-link" href="{{ pub.doi }}" target="_blank">DOI</a>
+  {% endif %}
+  {% if pub.pdf %}
+    <a class="pub-link" href="{{ pub.pdf }}" target="_blank">PDF</a>
+  {% endif %}
+  {% if pub.osf %}
+    <a class="pub-link" href="{{ pub.osf }}" target="_blank">OSF</a>
+  {% endif %}
 </p>
 
 {% endfor %}
