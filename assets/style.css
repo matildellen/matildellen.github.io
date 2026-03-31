@@ -220,7 +220,7 @@ h2::after {
 /* metadata badges */
 
 .pub-link {
-  display: inline-block;
+  display: inline;
   font-size: 0.78em;
 
   border: 1px solid #d0d9e4;
@@ -228,19 +228,20 @@ h2::after {
 
   padding: 3px 8px;
   margin-left: 6px;
-  margin-top: 4px;
+  margin-top: 0;
 
   border-radius: 6px;
   text-decoration: none;
 
   color: #2f638e;
   font-weight: 500;
+  vertical-align: baseline;
 }
 
 .pub-link:hover {
   background: var(--accent);
   color: white;
-  border-color: var(--accent);
+  border-color: var(--accent);}
   
 /* highlight your name */
 
