@@ -4,10 +4,6 @@ title: Publications
 ---
 
 # Publications
-
-Below is a selection of my publications.  
-Authors with **my name** appear in bold.
-
 ---
 
 ## Peer-reviewed Publications
