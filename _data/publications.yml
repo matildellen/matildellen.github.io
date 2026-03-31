@@ -3,25 +3,29 @@
   title: "The influence of bilingualism on statistical word learning: A registered report."
   journal: "Royal Society Open Science"
   doi: "https://osf.io/2ch9y"
+  abstract: "While statistical word learning has been the focus of many studies on monolinguals, it has received little attention in bilinguals. The results of existing studies on statistical word learning in bilinguals are inconsistent, with some research reporting a bilingual advantage over monolinguals but others finding no difference between groups. Thus, our study investigated statistical learning using the cross-situational word learning (CSWL) paradigm between two groups: English–German bilinguals and English monolinguals. Participants (N = 201) learned 1 : 1 mappings (one word maps onto one object) and 1 : 2 mappings (one word maps onto two objects). In contrast to previous studies, we measured learning continuously and analysed trial-by-trial behaviour closely to understand fine-grained learning differences across language groups. Against our predictions, monolinguals generally outperformed bilinguals in word learning regardless of mapping type, and trial-by-trial analyses did not reveal differences in learning as expected. Moreover, language balancedness of bilinguals (operationalized via language entropy) did not account for differences in CSWL performance. These results suggest that any existing word learning advantages may be highly paradigm- and population-specific."
 
 - year: 2025
   authors: "Buchanan, E. M., Cuccolo, K., (…) Simonetti, M.E., (…) & Suchow, J."
   title: "Measuring the Semantic Priming Effect Across Many Languages."
   journal: "Nature Human Behaviour"
   doi: "https://doi.org/10.1038/s41562-025-02254-x"
-
+  abstract: "Semantic priming has been studied for nearly 50 years across various experimental manipulations and theoretical frameworks. Although previous studies provide insight into the cognitive underpinnings of semantic representations, they have suffered from small sample sizes and a lack of linguistic and cultural diversity. In this Registered Report, we measured the size and the variability of the semantic priming effect across 19 languages (n = 25,163 participants analysed) by creating the largest available database of semantic priming values using an adaptive sampling procedure. We found evidence for semantic priming in terms of differences in response latencies between related word-pair conditions and unrelated word-pair conditions. Model comparisons showed that the inclusion of a random intercept for language improved model fit, providing support for variability in semantic priming across languages. This study highlights the robustness and variability of semantic priming across languages and provides a rich, linguistically diverse dataset for further analysis. The Stage 1 protocol for this Registered Report was accepted in principle on 15 July 2022. The protocol, as accepted by the journal, can be found at https://osf.io/u5bp6 (registration) or https://osf.io/q4fjy (preprint version 6, 31 May 2022)."
+  
 - year: 2025
   authors: "Simonetti, M. E., & Roembke, T. C."
   title: "Cross-situational word learning."
   journal: "Encyclopedia of Language and Linguistics (3rd ed.), Elsevier"
   doi: "https://doi.org/10.1016/B978-0-323-95504-1.00808-5"
-
+  abstract: "Words can be learned in situations of referential ambiguity and in the absence of feedback based on their above baseline co-occurrence with their meanings. This type of learning is called cross-situational word learning (CSWL; sometimes called cross-situational statistical learning, CSSL, or XSWL). CSWL has been studied widely within the last 15+ years and has been shown in a range of age groups and populations. This chapter will explore different CSWL paradigms and mechanisms and then focus on differences in CSWL across the life span and language histories."
+  
 - year: 2025
   authors: "Simonetti, M.E., Koch, I., & Roembke, T.C."
   title: "How do multiple meanings affect word learning and remapping?"
   journal: "Memory and Cognition"
   doi: "https://doi.org/10.3758/s13421-025-01706-z"
-
+  abstract: "Many words have multiple meanings. It is currently unclear how a word with more than one meaning is acquired or stored long-term. One possibility is that each word’s meaning is less robustly encoded; this, in turn, may make it easier to acquire additional meanings. We investigated this hypothesis across three cross-situational statistical learning experiments (N1 = 62 (in-lab), N2 = 61 (online), N3 = 60 (online)), using the same general procedure: During Learning Phase 1 (LP1), participants acquired both 1:1 (each word has one meaning) and 1:2 (each word has two meanings) mappings. In Learning Phase 2 (LP2), each word received one new meaning. Across experiments, we manipulated the frequency of 1:1 and 1:2 mappings. As expected, 1:2 mappings were always harder to acquire in LP1. However, in the LP2 of Experiment 1, former 1:1 mappings were remapped more easily than former 1:2 ones, while 1:2 mappings were remapped more easily in Experiments 2 and 3. These data suggest that words with multiple meanings are more easily remapped, indicating that each meaning is less robustly associated with the word, which in turn may facilitate the acquisition of an additional meaning. However, the observed inconsistencies in the remapping results between in-lab and online experiments suggest that CSWL may differ across these two settings."
+    
 - year: 2024
   authors: "Di Natale, A. F., La Rocca, S., Simonetti, M. E., & Bricolo, E."
   title: "Using computer-generated faces in experimental psychology."
@@ -29,7 +33,31 @@
   doi: "https://doi.org/10.1016/j.chbr.2024.100397"
 
 - year: 2023
+  authors: "Kiyak, C., Deluca, P., Norton, S., Simonetti, M. E., & Preti, E."
+  title: "The impact of cue-elicited multisensory imagery on alcohol craving: A randomized controlled trial."
+  journal: "European Addiction Research, 29(5), 353–362"
+  doi: "https://doi.org/10.1159/000531844"
+
+- year: 2023
   authors: "Roembke, T.C., Simonetti, M.E., Koch, I. & Philipp, A.M."
   title: "What have we learned from 15 years of research on cross-situational word learning?"
   journal: "Frontiers in Psychology"
   doi: "https://doi.org/10.3389/fpsyg.2023.1175272"
+  
+- year: 2023
+  authors: "Roembke, T. C., Simonetti, M. E., Koch, I., & Philipp, A. M."
+  title: "What have we learned from 15 years of research on cross-situational word learning? A focused review."
+  journal: "Frontiers in Psychology, 14, 1175272"
+  doi: "https://doi.org/10.3389/fpsyg.2023.1175272"
+
+- year: 2023
+  authors: "Di Natale, A. F., Simonetti, M. E., La Rocca, S., & Bricolo, E."
+  title: "Uncanny valley effect: A qualitative synthesis of empirical research to assess the suitability of using virtual faces in psychological research."
+  journal: "Computers in Human Behavior Reports, 10, 100288"
+  doi: "https://doi.org/10.1016/j.chbr.2023.100288"
+
+- year: 2023
+  authors: "Kiyak, C., Simonetti, M. E., Norton, S., & Deluca, P."
+  title: "The efficacy of cue exposure therapy on alcohol use disorders: A quantitative meta-analysis and systematic review."
+  journal: "Addictive Behaviors, 139, 107578"
+  doi: "https://doi.org/10.1016/j.ddbeh.2022.107578"
