@@ -13,12 +13,13 @@ Authors with **my name** appear in bold.
 ## Peer-reviewed Publications
 
 <div class="pub-list">
-
+<!-- 2025 -->
+<h3 class="pub-year">2025</h3>
 <p>
 Buchanan, E. M., Cuccolo, K., (…) <strong>Simonetti, M.E.</strong>, (…) & Suchow, J. (2026).  
 <i>Measuring the Semantic Priming Effect Across Many Languages.</i>  
 Nature Human Behaviour, 10, 182–201.  
-<a href="https://doi.org/10.1038/s41562-025-02254-x" target="_blank">DOI: 10.1038/s41562-025-02254-x</a>
+<a class="pub-link" href="https://doi.org/10.1016/j.chbr.2024.100397" target="_blank"> DOI: 10.1038/s41562-025-02254-x</a>
 </p>
 <details>
     <summary>Abstract</summary>
@@ -29,7 +30,7 @@ Nature Human Behaviour, 10, 182–201.
 <strong>Simonetti, M.E.</strong>, Lorenz, M. G., Koch, I., & Roembke, T.C. (2025).  
 <i>The influence of bilingualism on statistical word learning: A registered report.</i>  
 Royal Society Open Science, 12 (12), 251768.  
-<a href="https://osf.io/2ch9y" target="_blank">DOI: osf.io/2ch9y</a>
+<a class="pub-link" href="https://doi.org/10.1098/rsos.251768" target="_blank"> DOI:10.1098/rsos.251768 </a>
 </p>
 <details>
     <summary>Abstract</summary>
@@ -42,7 +43,21 @@ Royal Society Open Science, 12 (12), 251768.
 <strong>Simonetti, M.E.</strong>, Koch, I., & Roembke, T.C. (2025).  
 <i>How do multiple meanings affect word learning and remapping?</i>  
 Memory and Cognition, 53, 2197–2216.  
-<a href="https://doi.org/10.3758/s13421-025-01706-z" target="_blank">DOI: 10.3758/s13421-025-01706-z</a>
+<a class="pub-link" href="https://doi.org/10.3758/s13421-025-01706-z" target="_blank"> DOI:10.3758/s13421-025-01706-z </a>
+</p>
+<details>
+    <summary>Abstract</summary>
+    <p> While statistical word learning has been the focus of many studies on monolinguals, it has received little attention in bilinguals. The results of existing studies on statistical word learning in bilinguals are inconsistent, with some research reporting a bilingual advantage over monolinguals but others finding no difference between groups. Thus, our study investigated statistical learning using the cross-situational word learning (CSWL) paradigm between two groups: English–German bilinguals and English monolinguals. Participants (N = 201) learned 1 : 1 mappings (one word maps onto one object) and 1 : 2 mappings (one word maps onto two objects). In contrast to previous studies, we measured learning continuously and analysed trial-by-trial behaviour closely to understand fine-grained learning differences across language groups. Against our predictions, monolinguals generally outperformed bilinguals in word learning regardless of mapping type, and trial-by-trial analyses did not reveal differences in learning as expected. Moreover, language balancedness of bilinguals (operationalized via language entropy) did not account for differences in CSWL performance. These results suggest that any existing word learning advantages may be highly paradigm- and population-specific.
+    </p>
+  </details>
+<!-- 2024 -->
+<h3 class="pub-year">2024</h3>
+
+<p>
+Di Natale, A. F., La Rocca, S., <strong>Simonetti, M. E.</strong>, & Bricolo, E. (2024).  
+<i>Using computer-generated faces in experimental psychology: The role of realism and exposure.</i>  
+Computers in Human Behavior Reports, 14, 100397.  
+<a class="pub-link" href="https://doi.org/10.1016/j.chbr.2024.100397" target="_blank"> DOI:10.1016/j.chbr.2024.100397 </a>
 </p>
 <details>
     <summary>Abstract</summary>
@@ -50,19 +65,13 @@ Memory and Cognition, 53, 2197–2216.
     </p>
   </details>
 
-
-<p>
-Di Natale, A. F., La Rocca, S., <strong>Simonetti, M. E.</strong>, & Bricolo, E. (2024).  
-<i>Using computer-generated faces in experimental psychology: The role of realism and exposure.</i>  
-Computers in Human Behavior Reports, 14, 100397.  
-<a href="https://doi.org/10.1016/j.chbr.2024.100397" target="_blank">DOI: 10.1016/j.chbr.2024.100397</a>
-</p>
-
+<!-- 2023 -->
+<h3 class="pub-year">2023</h3>
 <p>
 Kiyak, C., Deluca, P., Norton, S., <strong>Simonetti, M. E.</strong>, & Preti, E. (2023).  
 <i>The impact of cue-elicited multisensory imagery on alcohol craving: A randomized controlled trial.</i>  
-European Addiction Research, 29(5), 353–362.  
-<a href="https://doi.org/10.1159/000531844" target="_blank">DOI: 10.1159/000531844</a>
+European Addiction Research, 29(5), 353–362. 
+<a class="pub-link" href="https://doi.org/10.1159/000531844" target="_blank"> DOI:10.1159/000531844 </a>
 </p>
 <details>
     <summary>Abstract</summary>
@@ -74,7 +83,7 @@ European Addiction Research, 29(5), 353–362.
 Roembke, T.C., <strong>Simonetti, M.E.</strong>, Koch, I. & Philipp, A.M. (2023).  
 <i>What have we learned from 15 years of research on cross-situational word learning? A focused review.</i>  
 Frontiers in Psychology, 14, 1175272.  
-<a href="https://doi.org/10.3389/fpsyg.2023.1175272" target="_blank">DOI: 10.3389/fpsyg.2023.1175272</a>
+<a class="pub-link" href="https://doi.org/10.3389/fpsyg.2023.1175272" target="_blank"> DOI:10.3389/fpsyg.2023.1175272 </a>
 </p>
 <details>
     <summary>Abstract</summary>
@@ -86,7 +95,7 @@ Frontiers in Psychology, 14, 1175272.
 Di Natale, A. F., <strong>Simonetti, M. E.</strong>, La Rocca, S., & Bricolo, E. (2023).  
 <i>Uncanny valley effect: A qualitative synthesis of empirical research to assess the suitability of using virtual faces in psychological research.</i>  
 Computers in Human Behavior Reports, 10, 100288.  
-<a href="https://doi.org/10.1016/j.chbr.2023.100288" target="_blank">DOI: 10.1016/j.chbr.2023.100288</a>
+<a class="pub-link" href="https://doi.org/10.1016/j.chbr.2023.100288" target="_blank"> DOI:110.1016/j.chbr.2023.100288 </a>
 </p>
 <details>
     <summary>Abstract</summary>
@@ -98,7 +107,7 @@ Computers in Human Behavior Reports, 10, 100288.
 Kiyak, C., <strong>Simonetti, M. E.</strong>, Norton, S., & Deluca, P. (2023).  
 <i>The efficacy of cue exposure therapy on alcohol use disorders: A quantitative meta-analysis and systematic review.</i>  
 Addictive Behaviors, 139, 107578.  
-<a href="https://doi.org/10.1016/j.ddbeh.2022.107578" target="_blank">DOI: 10.1016/j.ddbeh.2022.107578</a>
+<a class="pub-link" href="https://doi.org/10.1016/j.ddbeh.2022.107578" target="_blank"> DOI:10.1016/j.ddbeh.2022.107578 </a>
 </p>
 <details>
     <summary>Abstract</summary>
@@ -116,7 +125,7 @@ Addictive Behaviors, 139, 107578.
 <strong>Simonetti, M. E.</strong>, & Roembke, T. C. (in press).  
 <i>Cross-situational word learning.</i>  
 In Encyclopedia of Language and Linguistics (3rd ed.). Elsevier.  
-<a href="https://doi.org/10.1016/B978-0-323-95504-1.00808-5" target="_blank">DOI: 10.1016/B978-0-323-95504-1.00808-5</a>
+<a class="pub-link" href="https://doi.org/10.1016/B978-0-323-95504-1.00808-5" target="_blank"> DOI:10.1016/B978-0-323-95504-1.00808-5 </a>
 </p>
   <details>
     <summary>Abstract</summary>
