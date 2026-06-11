@@ -5,66 +5,34 @@ title: Publications
 
 # Publications
 
-<p class="pub-metrics">
-Google Scholar: <a href="https://scholar.google.com/citations?hl=it&user=JmBEc0UAAAAJ" target="_blank">profile</a> ·
-Citations: 175 · h-index: 5 · i10-index: 4
-</p>
+<div class="metrics-box">
+
+<div class="metric">
+<span class="metric-number">175</span>
+<span class="metric-label">Citations</span>
+</div>
+
+<div class="metric">
+<span class="metric-number">5</span>
+<span class="metric-label">h‑index</span>
+</div>
+
+<div class="metric">
+<span class="metric-number">4</span>
+<span class="metric-label">i10‑index</span>
+</div>
+
+<div class="metric scholar">
+<a href="https://scholar.google.com/citations?hl=it&user=JmBEc0UAAAAJ" target="_blank">
+View Google Scholar profile
+</a>
+</div>
+
+</div>
 
 ---
 
 ## Peer‑reviewed Publications
-
-<div class="pub-list">
-
-<h3 class="pub-year">2026</h3>
-
-<p class="pub-entry">
-Buchanan, E. M., Cuccolo, K., (…) <strong>Simonetti, M. E.</strong>, (…) & Suchow, J. (2026).  
-<i>Measuring the semantic priming effect across many languages.</i>  
-Nature Human Behaviour.  
-<a class="pub-link" href="https://doi.org/10.1038/s41562-025-02254-x" target="_blank">DOI</a>
-</p>
-
-<details>
-<summary>Abstract</summary>
-<p>
-Semantic priming has been studied for nearly 50 years across various experimental manipulations and theoretical frameworks. Although previous studies provide insight into the cognitive underpinnings of semantic representations, they have suffered from small sample sizes and a lack of linguistic and cultural diversity. In this Registered Report, we measured the size and the variability of the semantic priming effect across 19 languages (n = 25,163 participants analysed) by creating the largest available database of semantic priming values using an adaptive sampling procedure.
-</p>
-</details>
-
-
-<h3 class="pub-year">2025</h3>
-
-<p class="pub-entry">
-<strong>Simonetti, M. E.</strong>, Lorenz, M. G., Koch, I., & Roembke, T. C. (2025).  
-<i>The influence of bilingualism on statistical word learning: A registered report.</i>  
-Royal Society Open Science, 12(12), 251768.  
-<a class="pub-link" href="https://doi.org/10.1098/rsos.251768" target="_blank">DOI</a>
-</p>
-
-<details>
-<summary>Abstract</summary>
-<p>
-While statistical word learning has been widely studied in monolinguals, it has received less attention in bilingual populations. We investigated cross‑situational statistical word learning in English–German bilinguals and English monolinguals (N = 201). Contrary to predictions, monolinguals generally outperformed bilinguals, and trial‑by‑trial analyses did not reveal differences in learning dynamics. These results suggest that any bilingual advantage in word learning may be highly paradigm‑ and population‑specific.
-</p>
-</details>
-
-
-<p class="pub-entry">
-<strong>Simonetti, M. E.</strong>, Koch, I., & Roembke, T. C. (2025).  
-<i>How do multiple meanings affect word learning and remapping?</i>  
-Memory & Cognition.  
-<a class="pub-link" href="https://doi.org/10.3758/s13421-025-01706-z" target="_blank">DOI</a>
-</p>
----
-layout: default
-title: Publications
----
-
-# Publications
----
-
-## Peer-reviewed Publications
 
 <div class="pub-list">
 <!-- 2026 -->
