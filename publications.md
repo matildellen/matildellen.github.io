@@ -173,7 +173,6 @@ Addictive Behaviors, 139, 107578.
 
 </div>
 
----
 ## Book Chapters
 
 <div class="pub-list">
@@ -183,14 +182,14 @@ Addictive Behaviors, 139, 107578.
 In D. F. Đurđević (Ed.), <i>International Encyclopedia of Language and Linguistics</i> (3rd ed., Vol. 13, pp. 146–151). Elsevier.  
 <a class="pub-link" href="https://doi.org/10.1016/B978-0-323-95504-1.00808-5" target="_blank"> DOI </a>
 </p>
-</p>
+
   <details>
     <summary>Abstract</summary>
     <p>   Words can be learned in situations of referential ambiguity and in the absence of feedback based on their above baseline co-occurrence with their meanings. This type of learning is called cross-situational word learning (CSWL; sometimes called cross-situational statistical learning, CSSL, or XSWL). CSWL has been studied widely within the last 15+ years and has been shown in a range of age groups and populations. This chapter will explore different CSWL paradigms and mechanisms and then focus on differences in CSWL across the life span and language histories.
     </p>
   </details>
 </div>
----
+
 
 ## In preparation / Under review
 
