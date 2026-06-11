@@ -200,8 +200,8 @@ h2::after {
 }
 /* Publication page */
 
-.pub-list {
-  max-width: 800px;
+.pub-list a {
+  white-space: nowrap;
 }
 
 .pub-list p {
