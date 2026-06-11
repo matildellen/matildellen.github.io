@@ -120,10 +120,11 @@ Addictive Behaviors, 139, 107578.
 
 <div class="pub-list">
 <p>
-<strong>Simonetti, M. E.</strong>, & Roembke, T. C. (in press).  
+<strong>Simonetti, M. E.</strong>, & Roembke, T. C. (2026).  
 <i>Cross-situational word learning.</i>  
-In Encyclopedia of Language and Linguistics (3rd ed.). Elsevier.  
+In D. F. Đurđević (Ed.), <i>International Encyclopedia of Language and Linguistics</i> (3rd ed., Vol. 13, pp. 146–151). Elsevier.  
 <a class="pub-link" href="https://doi.org/10.1016/B978-0-323-95504-1.00808-5" target="_blank"> DOI </a>
+</p>
 </p>
   <details>
     <summary>Abstract</summary>
