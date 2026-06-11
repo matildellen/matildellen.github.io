@@ -11,34 +11,96 @@ My research investigates how people learn words in ambiguous environments and ho
 
 ## Research themes
 
-### Cross‑situational word learning
+<div class="research-grid">
 
-Many real-world learning situations are ambiguous: when hearing a new word, several possible referents may be present.  
-Cross‑situational word learning studies how learners resolve this ambiguity by tracking co‑occurrence statistics across multiple learning events.
+<div class="research-card">
+<h3>📊 Cross‑situational word learning</h3>
+<p>
+Many real-world learning situations are ambiguous: when hearing a new word,
+several possible referents may be present. Cross‑situational word learning
+studies how learners resolve this ambiguity by tracking co‑occurrence
+statistics across learning events.
+</p>
 
-My work examines how learners form and update word–object mappings over time and how factors such as overlapping meanings influence learning and retrieval.
+<p>
+My work investigates how learners form and update word–object mappings over
+time and how factors such as overlapping meanings influence learning and
+retrieval.
+</p>
+</div>
 
-### Bilingualism and language experience
+<div class="research-card">
+<h3>🌍 Bilingualism and language experience</h3>
+<p>
+Bilingual speakers experience different language environments than
+monolingual speakers. One long‑standing question is whether bilingual
+experience influences the ability to learn new words.
+</p>
 
-Bilingual speakers often experience different language environments than monolingual speakers.  
-One question that has received considerable attention is whether bilingual experience confers advantages in learning new words.
+<p>
+I investigate whether bilingualism affects statistical word learning and how
+characteristics of bilingual experience (e.g., language balance or language
+switching) shape learning behaviour.
+</p>
+</div>
 
-In my research, I investigate whether bilingualism influences statistical word learning and how characteristics of bilingual experience (e.g., language balance or switching) shape learning behaviour.
+<div class="research-card">
+<h3>👁️ Online learning processes</h3>
+<p>
+Learning unfolds dynamically over time. Using <strong>eye‑tracking</strong>,
+I examine how learners allocate visual attention to potential word meanings
+during learning and retrieval.
+</p>
 
-### Online learning processes
+<p>
+These methods allow us to observe competition between candidate
+word–object mappings and reveal learning processes that are not visible in
+accuracy measures alone.
+</p>
+</div>
 
-Learning unfolds dynamically over time.  
-Using <strong>eye‑tracking</strong>, I examine how learners allocate attention to potential word meanings during learning and retrieval.
-
-These methods allow us to study competition between alternative word–object mappings and reveal learning processes that are not visible in accuracy measures alone.
+</div>
 
 ---
 
 ## Methods
 
-I combine behavioural experiments with process‑tracing methods to study word learning:
+<div class="method-tags">
 
-- Eye‑tracking to measure visual attention during learning and retrieval  
-- Reaction‑time experiments in controlled laboratory paradigms  
-- Trial‑by‑trial analyses of learning behaviour  
-- Meta‑analytic approaches to synthesise evidence across studies
+<span class="method-tag">Eye‑tracking</span>
+<span class="method-tag">Behavioural experiments</span>
+<span class="method-tag">Reaction‑time paradigms</span>
+<span class="method-tag">Trial‑by‑trial analyses</span>
+<span class="method-tag">Meta‑analysis</span>
+
+</div>
+
+---
+
+## Selected publications
+
+<div class="highlight-box">
+
+<p>
+<strong>Simonetti, M.E.</strong>, Lorenz, M.G., Koch, I., & Roembke, T.C. (2025).  
+<i>The influence of bilingualism on statistical word learning: A registered report.</i>  
+Royal Society Open Science.
+</p>
+
+<p>
+<strong>Simonetti, M.E.</strong>, Koch, I., & Roembke, T.C. (2025).  
+<i>How do multiple meanings affect word learning and remapping?</i>  
+Memory & Cognition.
+</p>
+
+<p>
+<strong>Simonetti, M.E.</strong>, & Roembke, T.C. (2026).  
+<i>Cross‑situational word learning.</i>  
+International Encyclopedia of Language and Linguistics.
+</p>
+
+<p>
+<a href="/publications">See full publication list →</a>
+</p>
+
+</div>
