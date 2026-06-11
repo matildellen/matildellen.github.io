@@ -475,3 +475,45 @@ summary {
   margin: 4px;
   font-size: 0.9em;
 }
+
+.metrics-box {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 22px;
+  align-items: center;
+
+  background: var(--bg);
+  border-left: 5px solid var(--accent);
+  padding: 18px 22px;
+  border-radius: 10px;
+
+  margin-bottom: 25px;
+}
+
+.metric {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 90px;
+}
+
+.metric-number {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.metric-label {
+  font-size: 12px;
+  color: #555;
+}
+
+.metric.scholar {
+  margin-left: auto;
+  font-size: 14px;
+}
+
+.metric.scholar a {
+  text-decoration: none;
+  font-weight: 500;
+}
