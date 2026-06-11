@@ -173,7 +173,7 @@ Addictive Behaviors, 139, 107578.
 
 </div>
 
-## Book Chapters
+<h2>Book Chapters</h2>
 
 <div class="pub-list">
 <p>
@@ -191,7 +191,7 @@ In D. F. Đurđević (Ed.), <i>International Encyclopedia of Language and Lingui
 </div>
 
 
-## In preparation / Under review
+<h2>In preparation / Under review</h2>
 
 <div class="pub-list">
 
