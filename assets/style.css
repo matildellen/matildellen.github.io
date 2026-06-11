@@ -438,3 +438,40 @@ p {
     font-size: 18px;
   }
 }
+
+.pub-entry {
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+
+.pub-year {
+  margin-top: 35px;
+  padding-bottom: 4px;
+  border-bottom: 2px solid #e6e6e6;
+}
+
+.pub-metrics {
+  font-size: 0.95em;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+details {
+  margin-bottom: 18px;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 500;
+}.method-tags {
+  margin-top: 15px;
+}
+
+.method-tag {
+  display: inline-block;
+  background: #eef3fb;
+  padding: 6px 12px;
+  border-radius: 20px;
+  margin: 4px;
+  font-size: 0.9em;
+}
