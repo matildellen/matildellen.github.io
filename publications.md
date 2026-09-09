@@ -8,7 +8,7 @@ title: Publications
 <div class="metrics-box">
 
 <div class="metric">
-<span class="metric-number">175</span>
+<span class="metric-number">197</span>
 <span class="metric-label">Citations</span>
 </div>
 
