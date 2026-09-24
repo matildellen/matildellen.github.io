@@ -31,20 +31,29 @@ To study these questions, I combine behavioural experiments with methods such as
 
 ## Research interests
 
-- Statistical word learning  
+- Statistical word learning, especially cross‑situational word learning  
 - Bilingual language experience  
-- Cross‑situational word learning  
-- Eye‑tracking and online learning processes  
+- Eye‑tracking and moment‑to‑moment learning processes  
 
 ## Community and collaboration
 
 <p>
-I am a member of the 
-<a href="https://sites.google.com/view/gewonn/home" target="_blank">GeWoNN (German Word Nerd Network)</a>, 
-a community focused on improving research practices in reading and language research.  
-I also serve on the leadership board of 
-<a href="https://www.womenincogsci.org/wics-europe" target="_blank">WiCS Europe+</a>, 
-which supports women and underrepresented researchers in cognitive science.
+I am a member of 
+<a href="https://gewonn.github.io/" target="_blank">GeWoNN (German Word Nerd Network)</a>, 
+a network of researchers working on language and reading in German, and of its 
+<a href="https://gewonn.github.io/trust/" target="_blank">TRUST Network</a>, 
+which aims to build a transparent, transferable, and sustainable foundation for psycholinguistic reading studies in German.
+</p>
+<p>
+I also serve on the leadership team of 
+<a href="https://wicseurope.github.io/WiCSeurope/" target="_blank">WiCS+ Europe</a> 
+(Widening Inclusivity in Cognitive Science), which supports women and underrepresented researchers in cognitive science.
+</p>
+<p>
+In 2025, I co-organised the 
+<a href="https://www.dgps.de/fachgruppen/allgemeine-psychologie/news-details/bericht-zur-15-a-dok-tagung-an-der-rwth-aachen/" target="_blank">15th A-Dok Workshop</a> 
+for early-career researchers in cognitive and experimental psychology at RWTH Aachen University, and in 2026 I joined the 
+NextGen Reviewer Mentorship Program of <em>Bilingualism: Language and Cognition</em>.
 </p>
 
 ---
@@ -52,5 +61,4 @@ which supports women and underrepresented researchers in cognitive science.
 ### Explore
 
 🔗 See the **[Publications](publications)** page for my papers and abstracts.  
-🔗 See the **[Research](research)** page for current projects and research directions.  
-
+🔗 See the **[Research](research)** page for current projects and research directions.
